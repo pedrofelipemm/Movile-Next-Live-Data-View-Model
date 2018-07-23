@@ -1,0 +1,8 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Movile Next</string>
+
+    <string name="seconds"><xliff:g id="seconds">%d</xliff:g> seconds</string>
+    <string name="chronometer">Chronometer</string>
+    <string name="livedata">LiveData</string>
+    <string name="Seekbar">Seekbar</string>
+</resources>
